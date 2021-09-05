@@ -1,7 +1,6 @@
-# Cats-vs-Dogs
 <h1 align="center">
 <!--   <a href="https://github.com/umangraval/Smart-Checkout"><img src="./brand_assets/banner.png" width=600 alt="Smart-Checkout"></a> -->
-  College Portal
+  Cats-vs-Dogs
 </h1>
 
 
